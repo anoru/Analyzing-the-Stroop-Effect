@@ -1,4 +1,6 @@
-# Analyzing the Stroop Effect using t-test: [*here to preview*](http://htmlpreview.github.io/?https://github.com/anoru/Analyzing-the-Stroop-Effect/blob/master/StroopEffect.html)
+# Analyzing the Stroop Effect using t-test: 
+
+[*Click here to see the preview*](http://htmlpreview.github.io/?https://github.com/anoru/Analyzing-the-Stroop-Effect/blob/master/StroopEffect.html)
 
 In this project, we will investigate a classic phenomenon from experimental psychology called the [**Stroop Effect**](https://en.wikipedia.org/wiki/Stroop_effect). We will look at some data collected from others who have performed the experiment and we will compute some statistics describing the results.
 
